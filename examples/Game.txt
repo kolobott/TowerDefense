@@ -1,0 +1,4 @@
+Please write the name:
+Dima
+Please write the length and the width of playground(format "19 36"):
+10 100

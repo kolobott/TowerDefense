@@ -1,0 +1,9 @@
+Please, don't change this file.
+TowerA:
+20 10 1
+TowerB:
+30 50 10
+EnemyA:
+600 10
+EnemyB:
+800 60
